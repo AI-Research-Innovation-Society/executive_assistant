@@ -1,3 +1,8 @@
+---
+name: Feature Request / General Issue
+about: Describe a new feature or task
+---
+
 ## Summary
 <!-- One-line description of the issue -->
 
